@@ -1,0 +1,87 @@
+
+---
+title: "Winston Christopher"
+format:
+  html:
+    theme:
+      light: flatly     # Professional, modern look
+      dark: slate       # Sleek dark mode
+    css: styles.css     # For custom centering and accents
+editor: visual-studio-code
+---
+
+<style>
+  /* Container styling */
+  .portfolio-container {
+    max-width: 800px;
+    margin: 2em auto;
+    padding: 1.5em;
+    background: #ffffff;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+  }
+  /* Section box styling */
+  .section-box {
+    margin: 1.5em 0;
+    padding: 1em;
+    background: #f8f9fa;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 6px;
+  }
+  /* Center all headings */
+  h1, h2, h3 {
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0.5em;
+  }
+  /* Title specific styling */
+  h1.title {
+    font-size: 2.5em;
+    margin: 0.5em 0;
+  }
+</style>
+
+<div class="portfolio-container">
+
+<div class="section-box">
+
+<h2>About Me</h2>
+
+I’m Winston Christopher, an MBA candidate at University Canada West with a foundation in agricultural sciences. I thrive at the intersection of strategy and innovation, turning complex data into actionable insights. Outside academics, I enjoy volunteering in community outreach and exploring UX design to solve user‐centered problems.
+</div>
+
+<div class="section-box">
+<h2>Education</h2>
+
+- **MBA (2024–Present)**, University Canada West
+- **B.Sc. in Agriculture (2018–2022)**, Tamil Nadu Agricultural University
+</div>
+
+<div class="section-box">
+<h2>Professional Experience & Highlights</h2>
+
+- Collaborated with local farmers through the RAWE program, leading field research, data collection, and stakeholder workshops to optimize crop management strategies.  
+- Designed and launched a responsive website for an Indian nonprofit, improving online visibility, streamlining donation flows, and boosting community engagement by 30%.  
+- Earned Foodsafe Level 1 certification in British Columbia, ensuring best practices in food handling, safety protocols, and regulatory compliance.
+</div>
+
+<div class="section-box">
+<h2>Key Skills & Strengths</h2>
+
+- Strategic Analysis & Frameworks (SWOT, PESTEL, Porter’s Five Forces)  
+- Data-Driven Decision Making & Analytics  
+- Leadership & Team Collaboration  
+- Design Thinking & Prototyping  
+- Clear Communication & Stakeholder Engagement  
+- Adaptability & Continuous Learning
+</div>
+<div class="section-box">
+<h2>Optional: Contact</h2>
+
+- **Email:** winstonchrist99@gmail.com  
+- **LinkedIn:** [www.linkedin.com/in/winston-christopher-1b34552ba](www.linkedin.com/in/winston-christopher-1b34552ba)
+</div>
+
+</div>
+
+---
